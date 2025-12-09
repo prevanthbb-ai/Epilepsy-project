@@ -1,4 +1,4 @@
-# Automated Seizure Detection Using CNN–BiLSTM with Attention
+# Seizure Detection Using CNN–BiLSTM with Attention
 ### Deep Learning for Fast and Accessible Epilepsy Diagnosis
 **Author:** Prathapani Revanth  
 **Dataset:** CHB-MIT Scalp EEG Database  
@@ -7,7 +7,7 @@
 ---
 
 ## Overview
-This project presents an automated seizure detection system using a deep learning hybrid architecture that combines **1D CNN**, **Bi-LSTM**, and a **custom attention mechanism**. The model is designed to classify seizure vs. non-seizure EEG segments quickly and accurately, with the goal of improving access to diagnostic tools in low-resource clinical settings.
+This project presents an automated seizure detection system using a deep learning hybrid architecture that combines **1D CNN**, **Bi-LSTM**, and a **custom attention mechanism**. The model is designed to classify seizure vs. non-seizure EEG segments quickly and accurately, to improve access to diagnostic tools in low-resource clinical settings.
 
 ---
 
