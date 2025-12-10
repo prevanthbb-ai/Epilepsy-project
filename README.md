@@ -28,7 +28,6 @@ This project presents an automated seizure detection system using a deep learnin
 | **Specificity** | 94% |
 | **Sensitivity** | 73.1% |
 
-Figures (confusion matrix, training curves, spectrograms) are provided in the **figures/** folder.
 
 ---
 
