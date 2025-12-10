@@ -257,13 +257,4 @@ plt.ylabel("True Positive Rate")
 plt.legend()
 plt.show()
 
-# Example: visualize attention for the first test segment; i need to work on this later the attention map isnt working I removed the entire block lmao..
-sample = X_test[0]
-attention_weights = get_attention_weights(model, sample)
 
-plt.figure(figsize=(12,4))
-sns.heatmap(attention_weights.T, cmap='viridis', cbar=True)
-plt.title("Attention Heatmap for 1 EEG Segment")
-plt.xlabel("Time Steps")
-plt.ylabel("Channels / Features")
-plt.show()
